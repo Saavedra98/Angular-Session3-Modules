@@ -1,0 +1,16 @@
+.container{
+    margin: 40px auto;
+    padding: 10px;
+    
+}
+
+.titulo{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.frase{
+    text-align: center;
+    font-size: 20px;
+}
